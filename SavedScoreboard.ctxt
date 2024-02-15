@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SavedScoreboard
+comment0.text=\r\n\ an\ extension\ to\ {@link\ Scoreboard}\ which\ stores\ the\ scoreboard\ in\ a\ file.\r\n\ <p>SavedScorecboard\ extends\ {@link\ Scoreboard}\ class\ by\ providing\ {@code\ save}\ and\ \r\n\ {@code\ load}\ methods\ for\ storing\ and\ retrieving\ the\ Scoreboard\ data\ in\ a\ file.</p>\r\n\r\n\ @author\ Anonymous\r\n\ @version\ 1.0\r\n
+comment1.params=theFileName
+comment1.target=SavedScoreboard(java.lang.String)
+comment1.text=\r\n\ constructor\ for\ objects\ of\ class\ SavedScoreboard\r\n\ \r\n\ @param\ theFileName\ the\ name\ of\ the\ file\ to\ store\ the\ Scoreboard\ data\ in\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFileName()
+comment2.text=\r\n\ gets\ the\ filename\r\n\ \r\n\ @return\ the\ filename\ (a\ String)\r\n
+comment3.params=
+comment3.target=void\ load()
+comment3.text=\r\n\ loads\ data\ from\ the\ file\r\n\ \r\n\ @throws\ IOException\ if\ it\ encounters\ an\ error\ opening\ the\ file\ for\ reading\r\n
+comment4.params=
+comment4.target=void\ save()
+comment4.text=\r\n\ saves\ data\ into\ the\ file\r\n\ \r\n\ @throws\ IOException\ if\ it\ encounters\ an\ error\ opening\ the\ file\ for\ writing\r\n
+numComments=5

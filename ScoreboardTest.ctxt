@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ScoreboardTest
+comment0.text=\r\n\ The\ test\ class\ for\ [@link\ Scoreboard].\r\n\r\n\ @author\ \ Anonymous\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ScoreboardTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ ScoreboardTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ TestGetScore()
+comment4.text=\r\n\ tests\ getScore.\r\n\ \r\n\ <p>Checks\ that\ getScore\ retrieves\ scores\ and\ returns\ 0\ for\ unknown\ players\r\n
+comment5.params=
+comment5.target=void\ TestListing()
+comment5.text=\r\n\ tests\ that\ the\ listing\ method\ returns\ the\ expected\ string\r\n
+numComments=6

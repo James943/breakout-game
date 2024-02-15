@@ -1,0 +1,7 @@
+.label {
+    -fx-font: bold 20pt "courier new";
+}
+
+#gameOver {
+    -fx-text-fill: pink
+}

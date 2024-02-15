@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Brick
+comment0.text=\r\n\ <h2>Brick\ -\ a\ type\ of\ GameObj</h2>\r\n\ This\ class\ represents\ a\ Brick\ that\ the\ player\ has\ to\ destroy\r\n\ \r\n\ @author\ Anonymous\r\n\ \r\n\ @see\ GameObj\r\n
+comment1.params=x\ y\ w\ h
+comment1.target=Brick(int,\ int,\ int,\ int)
+numComments=2

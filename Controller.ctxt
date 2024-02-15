@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\r\n\ <h2>Controller\ class</h2>\r\n\ The\ breakout\ controller\ converts\ key\ presses\ from\ the\ user\ (received\ by\ the\ View\ object)\r\n\ into\ commands\ for\ the\ game\ (in\ the\ Model\ object)\r\n\ \r\n\ @author\ Anonymous\r\n\ \r\n\ @see\ Model\r\n\ @see\ View\r\n
+comment1.params=
+comment1.target=Controller()
+comment2.params=event
+comment2.target=void\ userKeyInteraction(javafx.scene.input.KeyEvent)
+numComments=3

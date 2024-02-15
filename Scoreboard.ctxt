@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ A\ class\ to\ store\ a\ list\ of\ player's\ names\ and\ their\ score.\r\n\r\n\ @author\ Anonymous\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\r\n\ constructor\ for\ objects\ of\ class\ Scoreboard\r\n
+comment2.params=
+comment2.target=void\ clear()
+comment2.text=\r\n\ clears\ all\ the\ entries\ from\ the\ Scoreboard\ \r\n
+comment3.params=name\ score
+comment3.target=void\ addScore(java.lang.String,\ int)
+comment3.text=\r\n\ adds\ a\ name\ and\ score\ to\ the\ Scoreboard\r\n\r\n\ @param\ \ name\ \ the\ name\ of\ the\ player\r\n\ @param\ \ score\ the\ player's\ score\r\n
+comment4.params=name
+comment4.target=int\ getScore(java.lang.String)
+comment4.text=\r\n\ retrieves\ a\ score\ from\ the\ Scoreboard\r\n\r\n\ @param\ \ name\ \ the\ name\ of\ the\ player\r\n\ @return\ a\ score\ of\ a\ player\ or\ 0\ if\ the\ player\ is\ not\ in\ the\ scoreboard\r\n
+comment5.params=
+comment5.target=java.lang.String\ listing()
+comment5.text=\r\n\ creates\ a\ String\ listing\ all\ the\ entries\ in\ the\ Scorboard\r\n\ \r\n\ @return\ the\ listing,\ with\ each\ entry\ on\ a\ separate\ line\r\n
+comment6.params=
+comment6.target=void\ printListing()
+comment6.text=\r\n\ prints\ a\ listing\ of\ the\ Scoreboard\ on\ the\ Console\ output\r\n
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=View
+comment0.text=\r\n\ <h2>View\ class</h2>\r\n\ The\ View\ class\ creates\ and\ manages\ the\ GUI\ for\ the\ application.\r\n\ It\ doesn't\ know\ anything\ about\ the\ game\ itself,\ it\ just\ displays\r\n\ the\ current\ state\ of\ the\ Model,\ and\ handles\ user\ input\r\n\ \r\n\ @author\ Anonymous\r\n\ \r\n\ @see\ Model\r\n
+comment1.params=w\ h
+comment1.target=View(int,\ int)
+comment2.params=theWindow
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=event
+comment3.target=void\ handle(javafx.scene.input.KeyEvent)
+comment4.params=
+comment4.target=void\ drawPicture()
+comment5.params=gc\ go
+comment5.target=void\ displayGameObj(javafx.scene.canvas.GraphicsContext,\ GameObj)
+comment6.params=
+comment6.target=void\ update()
+comment7.params=
+comment7.target=void\ drawEndScreen()
+comment8.params=event
+comment8.target=void\ buttonScoreboardClicked(javafx.event.ActionEvent)
+comment9.params=event
+comment9.target=void\ buttonRestartClicked(javafx.event.ActionEvent)
+numComments=10

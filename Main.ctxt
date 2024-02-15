@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ <h2>Main\ class</h2>\r\n\ This\ class\ is\ what\ the\ uses\ first\ called\ what\ they\ lauch\ the\ game.\r\n\ It\ calls\ the\ model\ and\ view\ classes\ in\ order\ the\ start\ up\ the\ game.\r\n\ \r\n\ @author\ Anonymous\r\n\ \r\n\ @see\ Model\r\n\ @see\ View\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=theWindow
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ the\ 'start'\ method\ -\ this\ creates\ a\ grid\ showing\ the\ controls\ to\ tart\ the\ game\r\n\ \r\n\ @return\ none\r\n
+comment3.params=event
+comment3.target=void\ button1Clicked(javafx.event.ActionEvent)
+comment3.text=\r\n\ If\ the\ user\ enters\ thir\ name\ this\ creates\ the\ Model,\ View\ and\ Controller\ objects\ and\r\n\ makes\ them\ talk\ to\ each\ other,\ it\ then\ sets\ up\ the\ user\ interface\ (in\ the\ View\ \r\n\ object)\ and\ starts\ the\ game\ running\ (in\ the\ Model\ object)\r\n\ \r\n\ @return\ none\r\n
+comment4.params=event
+comment4.target=void\ button2Clicked(javafx.event.ActionEvent)
+comment4.text=\r\n\ If\ the\ user\ wants\ to\ view\ the\ scores\ of\ other\ players,\ then\ it\ will\ display\ it\r\n\ in\ a\ scrollable\ list\ view\ control\r\n\ \r\n\ @return\ none\r\n
+numComments=5

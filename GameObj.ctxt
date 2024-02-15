@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameObj
+comment0.text=\r\n\ <h2>Game\ Object</h2>\r\n\ An\ object\ in\ the\ game,\ represented\ as\ a\ rectangle,\ with\ a\ position,\r\n\ a\ size,\ a\ colour\ and\ a\ direction\ of\ movement.\r\n\ \r\n\ @author\ Anonymous\r\n\ \r\n
+comment1.params=
+comment1.target=GameObj()
+comment2.params=units
+comment2.target=void\ moveX(int)
+comment3.params=units
+comment3.target=void\ moveY(int)
+comment4.params=
+comment4.target=void\ changeDirectionX()
+comment5.params=
+comment5.target=void\ changeDirectionY()
+comment6.params=obj
+comment6.target=boolean\ hitBy(GameObj)
+numComments=7
